@@ -2,7 +2,7 @@
 
 ----
 
-CI / CD on Oracle Managed Kubernetes Cluster - OKE & Wercker light edit
+CI / CD on Oracle Managed Kubernetes Cluster - OKE & Wercker
 ============================================================
 
 This tutorial shows you how to create a production quality Kubernetes cluster
